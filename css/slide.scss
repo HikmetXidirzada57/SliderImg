@@ -1,16 +1,30 @@
-.box1{
-    background-color:rgba(0, 0, 0, 0.308);
-    button{
-        padding: 12px 22px;
-        border: 1px solid grey;
-    }
+// .box1{
+//     background-color:rgba(0, 0, 0, 0.308);
+//     button{
+//         padding: 12px 22px;
+//         border: 1px solid grey;
+//     }
   
+// }
+// .box2{
+//     border: 1px solid black;
+//    background-color:rgba(238, 226, 226, 0.096);
+// }
+// .active{
+// visibility: hidden;
+// opacity: 0;
+// }
+
+.carouselItem{
+    img{
+        width: 100%;
+    }
+    margin-bottom: 20px;
 }
-.box2{
-    border: 1px solid black;
-   background-color:rgba(238, 226, 226, 0.096);
-}
-.active{
-visibility: hidden;
-opacity: 0;
+.carousel-img{
+    margin-left: 70px;
+    margin-top: 80px;
+    img{
+    width: 100%;
+    }
 }

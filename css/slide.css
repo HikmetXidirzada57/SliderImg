@@ -1,19 +1,17 @@
-.box1 {
-  background-color: rgba(0, 0, 0, 0.308);
+.carouselItem {
+  margin-bottom: 20px;
 }
 
-.box1 button {
-  padding: 12px 22px;
-  border: 1px solid grey;
+.carouselItem img {
+  width: 100%;
 }
 
-.box2 {
-  border: 1px solid black;
-  background-color: rgba(238, 226, 226, 0.096);
+.carousel-img {
+  margin-left: 70px;
+  margin-top: 80px;
 }
 
-.active {
-  visibility: hidden;
-  opacity: 0;
+.carousel-img img {
+  width: 100%;
 }
 /*# sourceMappingURL=slide.css.map */
